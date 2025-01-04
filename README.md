@@ -7,4 +7,4 @@ Responsive Design: The interface adjusts seamlessly across different devices and
 Password Generation: Users can generate random passwords with a click of a button.
 
 Copy to Clipboard: A convenient copy button allows users to quickly copy the generated password to the clipboard.
-
+live Demo[https://codepen.io/KhensCode/pen/RNbjBWL]
